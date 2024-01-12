@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Royaltymods
-- 👀 I’m interested in 
-- 🌱 I’m currently learning gsc
+- 👀 I’m interested in -
+- 🌱 I’m currently learning javaScript, HTML, CSS, C#, php
 .
 
 <!---
